@@ -20,8 +20,7 @@ Inline-style:
 
 General Informations
 --------------------
-
-tbd
+We see the gamification of the blockchain technology as an exciting experiment, in which we want to introduce the functionality and advantages of the blockchain technology to a broad audience without specific knowledge in a playful and immersive way.
 
 Warnings
 --------
